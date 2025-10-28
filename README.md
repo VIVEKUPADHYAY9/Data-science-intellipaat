@@ -1,5 +1,5 @@
 # What is Data Science? Lifecycle, Applications with Example  
-*By Yash Raj Sinha | Last updated on October 17, 2025 | 91,790 Views*
+*By Vivek Kumar upadhyay *
 
 ---
 
